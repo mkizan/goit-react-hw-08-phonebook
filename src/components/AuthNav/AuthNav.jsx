@@ -9,7 +9,7 @@ const styles = {
     color: 'rgb(59, 11, 73)',
   },
   activeLink: {
-    color: 'rgba(131, 30, 131, 0.712)',
+    color: '#E84A5F',
   },
 };
 
